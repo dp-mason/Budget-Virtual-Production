@@ -8,7 +8,7 @@ This project was inspired by <a href="https://www.ilm.com/">ILM's</a> use of vir
 
 ## Our Parts List
 
-Lenovo Legion 5, with RTX 3050
+Lenovo Legion 5, with RTX 3050<br>
 Nikon d5600
 Vive 3.0 Tracker
 Vive Base Station
