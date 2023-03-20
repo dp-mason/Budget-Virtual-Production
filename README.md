@@ -8,13 +8,13 @@ This project was inspired by <a href="https://www.ilm.com/">ILM's</a> use of vir
 
 ## Our Parts List
 
-Lenovo Legion 5, with RTX 3050<br>
-Nikon d5600
-Vive 3.0 Tracker
-Vive Base Station
-Mini HDMI to HDMI adapter
-Elgato Cam Link 4k
-Nikon AC power adapter
+Lenovo Legion 5, with RTX 3050<br />
+Nikon d5600<br />
+Vive 3.0 Tracker<br />
+Vive Base Station<br />
+Mini HDMI to HDMI adapter<br />
+Elgato Cam Link 4k<br />
+Nikon AC power adapter<br />
 
 ## Contact
 
