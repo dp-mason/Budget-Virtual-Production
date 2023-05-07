@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.budgetvp-20979098.unrealeditor.exe",
+			"app_key": "application.generated.ue.budgetvp-23901901.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/david/OneDrive/Documents/Unreal Projects/Budget-Virtual-Production/BudgetVP_Project/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/GeeWh/Documents/Unreal Projects/Budget-Virtual-Production/BudgetVP_Project/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "BudgetVP-20979098 [UE Editor]"
+					"name": "BudgetVP-23901901 [UE Editor]"
 				}
 			}
 		}
