@@ -79,7 +79,8 @@
         - When the game is started, the live video source will need to be set again, during runtime.
             1. If your mouse is captured by the game: press “Shift+F1” to release it. 
             2. Open the asset “Content>Media>NewMediaPlayer” and set the source in the top left of the preview window to “Cam Link 4k” or whatever video source is being used.
-        - If “Use Cloud Green Screen” is enabled **TODO: AND BAKED CALIBRATION IS NOT USED**
+        - If using Cloud Green Screen, check to ensure the virtual mesh 'aligns' with physical one
+            - If alignment is not satisfactory, recalibrate (Note that this new calibration is saved, and previous calibrations are lost):
             1. first, set the tracker down in the center of the room, then press “right alt”
             2. now set the tracker down in the center of the back wall on the floor, then press “right alt” again
             - Ensure that the tracker is visible to the base station during this process by looking at the tracker’s status in the live link window
