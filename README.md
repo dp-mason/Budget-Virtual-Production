@@ -18,7 +18,7 @@ Nikon AC power adapter<br />
 
 ## Contact
 
-Much of this project is not fully documented. If you have questions, feel free to contact us via the information provided in the <a href="https://ejournals.bc.edu/index.php/ital/index">column</a>.
+Much of this project is not fully documented. If you have questions, feel free to contact us via the information provided in the <a href="https://ejournals.bc.edu/index.php/ital/article/view/16315">column</a>.
 
 ## Demo
 
