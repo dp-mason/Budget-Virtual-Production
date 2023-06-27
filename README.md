@@ -1,6 +1,6 @@
 # Budget-Virtual-Production
 
-Virtual Production using Unreal Engine 5
+Virtual Production using Unreal Engine 5.1.1
 
 ## Motivation
 
@@ -19,6 +19,10 @@ Nikon AC power adapter<br />
 ## Contact
 
 Much of this project is not fully documented. If you have questions, feel free to contact us via the information provided in the <a href="https://ejournals.bc.edu/index.php/ital/article/view/16315">column</a>.
+
+## Credit:
+<a href="https://www.youtube.com/watch?v=In9YPFiHsUM">Stylized Asian Village by AleksandrIvanov</a>
+
 
 ## Demo
 
