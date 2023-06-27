@@ -49,6 +49,36 @@
 
 # Blueprint Setup
 
+# HW setup
+## camera:
+
+ - (optional) use charger with camera
+
+ - cam -> micro hdmi -> adapter (to hdmi) -> cam link -> computer
+
+## base station:
+ - put on stand (face in direction that vive tracker will be) 
+ - plug in
+
+## vive tracker:
+ - plug in dongle (usb stick looking thing)
+
+
+# software:
+ - start steamvr before ue5
+
+ - steamvr -> options -> devices -> pair controllers (vive tracker)
+
+ - use onelinklivepreset
+
+ - check mediaplayer after starting
+
+## to calibrate:
+ - middle X first (R alt), then back X
+
+## finally, attach vive tracker to camera using Hot Shoe mount
+
+
 ## Virtual Physical Bridge
 
 - This is the Blueprint that handles syncing the “Cine Camera Actor” and our real world physical camera
@@ -79,7 +109,8 @@
         - When the game is started, the live video source will need to be set again, during runtime.
             1. If your mouse is captured by the game: press “Shift+F1” to release it. 
             2. Open the asset “Content>Media>NewMediaPlayer” and set the source in the top left of the preview window to “Cam Link 4k” or whatever video source is being used.
-        - If “Use Cloud Green Screen” is enabled **TODO: AND BAKED CALIBRATION IS NOT USED**
+        - If using Cloud Green Screen, check to ensure the virtual mesh 'aligns' with physical one
+            - If alignment is not satisfactory, recalibrate (Note that this new calibration is saved, and previous calibrations are lost):
             1. first, set the tracker down in the center of the room, then press “right alt”
             2. now set the tracker down in the center of the back wall on the floor, then press “right alt” again
             - Ensure that the tracker is visible to the base station during this process by looking at the tracker’s status in the live link window
