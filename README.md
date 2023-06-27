@@ -20,6 +20,10 @@ Nikon AC power adapter<br />
 
 Much of this project is not fully documented. If you have questions, feel free to contact us via the information provided in the <a href="https://ejournals.bc.edu/index.php/ital/article/view/16315">column</a>.
 
+## Credit:
+<a href="https://www.youtube.com/watch?v=In9YPFiHsUM">Stylized Asian Village by AleksandrIvanov</a>
+
+
 ## Demo
 
 [![DEMO](http://img.youtube.com/vi/EvbBT_UzHdE/0.jpg)](https://www.youtube.com/watch?v=EvbBT_UzHdE "Virtual Production Demo")
